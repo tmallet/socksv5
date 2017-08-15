@@ -1,5 +1,5 @@
 {
-  "name": "socksv5",
+  "name": "@heroku/socksv5",
   "description": "SOCKS protocol version 5 server and client implementations for node.js",
   "version": "0.0.6",
   "author": "Brian White <mscdex@mscdex.net>",

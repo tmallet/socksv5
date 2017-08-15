@@ -22,12 +22,7 @@
     "socks5",
     "socksv5"
   ],
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/mscdex/socksv5/raw/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "main": "./index",
   "repository": {
     "type": "git",

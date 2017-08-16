@@ -1,7 +1,7 @@
 {
   "name": "@heroku/socksv5",
   "description": "SOCKS protocol version 5 server and client implementations for node.js",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Brian White <mscdex@mscdex.net>",
   "dependencies": {
     "ip-address": "^5.8.8"

@@ -1,7 +1,7 @@
 {
   "name": "@heroku/socksv5",
   "description": "SOCKS protocol version 5 server and client implementations for node.js",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "Brian White <mscdex@mscdex.net>",
   "bundledDependencies": [
     "ipv6"
